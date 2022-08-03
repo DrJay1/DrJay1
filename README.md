@@ -1,7 +1,12 @@
 ### Hi there 👋
+# About Me .. 
+‣ Name: Dr. Jay Jonathan Dean
 
-<!--
-**DrJay1/DrJay1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+‣ Located: NEw JErsey, USA
+
+‣ I am: Computer Science Scholar
+
+‣ Passionate about data, statistics, and technology. Lover of books and all things meaningful.
 
 Here are some ideas to get you started:
 
