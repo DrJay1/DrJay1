@@ -2,9 +2,9 @@
 # About Me .. 
 ‣ Name: Dr. Jay Jonathan Dean
 
-‣ Located: NEw JErsey, USA
+‣ Located: New Jersey, USA
 
-‣ I am: Computer Science Scholar
+‣ I am a computer Science Scholar
 
 ‣ Passionate about data, statistics, and technology. Lover of books and all things meaningful.
 
